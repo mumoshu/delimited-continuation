@@ -1,0 +1,2 @@
+~/Library/Scala/scala-2.9.0.1/bin/scala -Xplugin:continuations -P:continuations:enable src/example.scala
+
